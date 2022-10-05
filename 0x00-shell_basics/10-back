@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd /tmp cd /var pwd /var cd /tmp pwd /tmp
+pwd /tmp cd /0x00-shell_basics pwd /0x00-shell_basics
