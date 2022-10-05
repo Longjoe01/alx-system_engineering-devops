@@ -1,10 +1,2 @@
 #!/bin/bash
-pwd
-/tmp
-cd /var
-pwd
-/var
-cd /tmp
-/tmp
-pwd
-/tmp
+pwd /tmp cd /var pwd /var cd /tmp pwd /tmp
